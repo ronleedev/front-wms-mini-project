@@ -1,0 +1,22 @@
+{
+  "name": "wms-mini-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.9",
+    "axios": "^1.6.7",
+    "quasar": "^2.15.0",
+    "vue": "^3.4.18",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.8.0"
+  },
+  "engines": {
+    "node": "^18 || ^20 || ^22"
+  }
+}

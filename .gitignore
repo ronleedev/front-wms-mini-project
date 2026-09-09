@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Node
+node_modules/
+
+# Quasar build artifacts
+.quasar/
+dist/
+src-ssr/
+.thumbs.db
+quasar.config.*.temporary.compiled*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+*.local

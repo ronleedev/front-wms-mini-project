@@ -17,6 +17,9 @@
         <q-item clickable to="/item">
           <q-item-section>품목 관리</q-item-section>
         </q-item>
+        <q-item clickable to="/plan">
+          <q-item-section>입고 예정 관리</q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 

@@ -15,7 +15,7 @@ module.exports = configure(function () {
     },
     framework: {
       config: {},
-      plugins: []
+      plugins: ['Notify']
     }
   }
 })

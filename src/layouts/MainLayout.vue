@@ -20,6 +20,12 @@
         <q-item clickable to="/plan">
           <q-item-section>입고 예정 관리</q-item-section>
         </q-item>
+        <q-item clickable to="/recv">
+          <q-item-section>입고 실적 관리</q-item-section>
+        </q-item>
+        <q-item clickable to="/stock">
+          <q-item-section>재고 관리</q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 

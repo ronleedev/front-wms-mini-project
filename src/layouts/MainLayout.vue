@@ -35,6 +35,9 @@
         <q-item clickable to="/ship">
           <q-item-section>출고 지시</q-item-section>
         </q-item>
+        <q-item clickable to="/shipAlloc">
+          <q-item-section>출고 할당</q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 

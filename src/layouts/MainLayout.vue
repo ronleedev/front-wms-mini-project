@@ -39,6 +39,9 @@
           <q-item-section>출고 할당</q-item-section>
         </q-item>
         <q-item clickable to="/pickList">
+          <q-item-section>피킹 리스트</q-item-section>
+        </q-item>
+        <q-item clickable to="/pick">
           <q-item-section>피킹</q-item-section>
         </q-item>
       </q-list>

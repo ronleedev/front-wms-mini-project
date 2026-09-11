@@ -16,6 +16,7 @@ const routes = [
       { path: 'shipAlloc', component: () => import('pages/shipAllocPage.vue') },
       { path: 'pickList', component: () => import('pages/PickListPage.vue') },
       { path: 'pick', component: () => import('pages/PickingPage.vue') },
+      { path: 'Inspection', component: () => import('pages/InspectionPage.vue') },
     ]
   }
 ]

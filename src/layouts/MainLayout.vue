@@ -44,6 +44,9 @@
         <q-item clickable to="/pick">
           <q-item-section>피킹</q-item-section>
         </q-item>
+        <q-item clickable to="/Inspection">
+          <q-item-section>검품</q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 

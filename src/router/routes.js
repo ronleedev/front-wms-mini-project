@@ -14,6 +14,7 @@ const routes = [
       { path: 'stockAdjMove', component: () => import('pages/StockAdjPage.vue') },
       { path: 'ship', component: () => import('pages/ShipPage.vue') },
       { path: 'shipAlloc', component: () => import('pages/shipAllocPage.vue') },
+      { path: 'pickList', component: () => import('pages/PickListPage.vue') },
     ]
   }
 ]

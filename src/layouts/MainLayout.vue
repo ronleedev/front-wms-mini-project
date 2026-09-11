@@ -38,6 +38,9 @@
         <q-item clickable to="/shipAlloc">
           <q-item-section>출고 할당</q-item-section>
         </q-item>
+        <q-item clickable to="/pickList">
+          <q-item-section>피킹</q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 

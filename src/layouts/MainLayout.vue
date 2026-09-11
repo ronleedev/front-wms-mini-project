@@ -32,6 +32,9 @@
         <q-item clickable to="/stockAdjMove">
           <q-item-section>재고 조정</q-item-section>
         </q-item>
+        <q-item clickable to="/ship">
+          <q-item-section>출고 지시</q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 
